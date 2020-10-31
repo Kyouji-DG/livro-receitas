@@ -3,4 +3,4 @@
 Bem vindo ao livro de receitas.
 
 - Milkshake de chocolate;
-- pavê;
+- pave;
